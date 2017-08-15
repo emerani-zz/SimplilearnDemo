@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SimplilearnDemo</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="new_game">New Game</string>
+    <string name="help">Help</string>
+
+    <string name="delete">Delete</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_closed">Close Drawer</string>
+
+    <string name="action_websearch">Web search</string>
+
+    <string-array name="options_keys">
+        <item>Text_String</item>
+        <item>Text_String_2</item>
+    </string-array>
+
+    <string-array name="options_values">
+        <item>Text_String</item>
+        <item>Text_String_2</item>
+    </string-array>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+
+</resources>
